@@ -1,6 +1,5 @@
 //Title:-Implementation of Dictionary using BST
 
-//CODE:
 #include <iostream>
 #include <cstdlib>
 using namespace std;
